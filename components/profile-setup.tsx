@@ -49,10 +49,10 @@ export default function ProfileSetup({ initialData, onProfileSaved }: ProfileSet
         }
       : {
           height: 60, // 5ft
-          weight: 265,
+          weight: 200,
           age: 32,
           gender: "female",
-          targetWeight: 245, // 20 lbs less
+          targetWeight: 180, // 20 lbs less
           weeklyWeightLossGoal: 2,
         },
   })
